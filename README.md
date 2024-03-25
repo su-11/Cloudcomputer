@@ -1,4 +1,4 @@
 # Cloudcomputer
 云计算的学习
 
-I love idle
+我喜欢发呆\(^o^)/
