@@ -1,0 +1,5 @@
+git config --global user.name "winner"
+
+$ git config --global user.email "2433865020@qq.com"
+
+
